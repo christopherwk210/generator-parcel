@@ -1,7 +1,7 @@
 # generator-parcel
 > Parcel based web app where everything just works
 
-The goal of this generator is to provide a quick way to scaffold a front-end project using the latest technologies, powered by Parcel for an easy zero configuration setup. It has optional TypeScript and Sass support, and comes with babel and postcss with autoprefixer installed and setup.
+The goal of this generator is to provide a quick way to scaffold an organized front-end project using the latest technologies, powered by Parcel for an easy zero configuration setup. It has optional TypeScript and Sass support, and comes with babel and postcss with autoprefixer installed and setup.
 
 ## Quick Start
 Install Yeoman first, then the generator:
@@ -19,6 +19,7 @@ Run it:
 ```
 npm start
 ```
+Your project will be available locally at [http://localhost:1234](http://localhost:1234)
 
 ## Sample output
 Here's an example of what the project structure might look like after generation:
