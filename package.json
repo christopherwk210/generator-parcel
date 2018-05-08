@@ -20,6 +20,9 @@
   "files": [
     "generators"
   ],
+  "engines": {
+    "node": ">=8.0.0"
+  },
   "license": "MIT",
   "dependencies": {
     "yeoman-generator": "^2.0.5"
