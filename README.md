@@ -1,4 +1,4 @@
-# generator-parcel
+# generator-parcel [![npm version](https://badge.fury.io/js/generator-parcel.svg)](https://badge.fury.io/js/generator-parcel)
 > Parcel based web app where everything just works
 
 The goal of this generator is to provide a quick way to scaffold an organized front-end project using the latest technologies, powered by Parcel for an easy zero configuration setup. It has optional TypeScript and Sass support, and comes with babel and postcss with autoprefixer installed and setup.
