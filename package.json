@@ -1,0 +1,27 @@
+{
+  "name": "generator-parcel",
+  "version": "0.1.0",
+  "description": "Parcel based web app where everything just works",
+  "main": "generators/index.js",
+  "homepage": "https://github.com/christopherwk210/generator-parcel",
+  "keywords": [
+    "parcel",
+    "ES6",
+    "TypeScript",
+    "Babel",
+    "PostCSS",
+    "yeoman-generator"
+  ],
+  "author": {
+    "name": "Chris Anselmo",
+    "email": "christopherwk210@gmail.com",
+    "url": "https://chrisanselmo.com/"
+  },
+  "files": [
+    "generators"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "yeoman-generator": "^2.0.5"
+  }
+}
